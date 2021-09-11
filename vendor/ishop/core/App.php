@@ -15,6 +15,7 @@ class App
         session_start();
         self::$app = Regestry::instance();
         $this->getParams();
+        new ErrorHandler();
     }
 
     protected function getParams()
