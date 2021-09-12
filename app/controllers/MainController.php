@@ -3,8 +3,9 @@
 
 namespace app\controllers;
 
+use ishop\App;
 
-class MainController
+class MainController extends AppController
 {
     public function indexAction()
     {
