@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/ishop/core" isTestSource="false" packagePrefix="ishop\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/ishop/core" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gabordemooij/redbean" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
